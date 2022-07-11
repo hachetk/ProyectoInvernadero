@@ -42,7 +42,7 @@
 
         <section class="textos-header">
 
-            <h1>Comunidad agrícola</h1>
+            <h1>Comunidad Inacap</h1>
 
             <h2>Invernaderos Hidropónicos</h2>
 
