@@ -42,7 +42,7 @@
 
         <section class="textos-header">
 
-            <h1>Comunidad agricolas</h1>
+            <h1>Comunidad agrícola</h1>
 
             <h2>Invernaderos Hidropónicos</h2>
 
@@ -100,9 +100,9 @@
 
                     <div class="servicio-ind">
 
-                        <h3>Filtracion Industrial</h3>
+                        <h3>Filtración Industrial</h3>
 
-                        <p>Representamos en Chile los mejores equipos de filtracion industrial para distintas aplicaciones como proteccion de sistemas de osmosis, recuperacion de agua en torres de refrigeracion,proteccion de equipos industriales entre otras</p>
+                        <p>Representamos en Chile los mejores equipos de filtración industrial para distintas aplicacionescomo protección de sistemas de osmosis, recuperación de agua en torres de refrigeración,protección de equipos industriales entre otras</p>
 
                     </div>
 
@@ -112,7 +112,7 @@
 
                         <h3>Control De Olores</h3>
 
-                        <p>Una amplia gama de sistemas para el control de olores en un formato simple, flexible a la medidas de sus procesos con PI2 technologies para la solucion a estos problemas.</p>
+                        <p>Una amplia gama de sistemas para el control de olores en un formato simple, flexible a la medida de sus procesos con PI2 technologies para la solución a estos problemas.</p>
 
                     </div>
 
@@ -120,7 +120,8 @@
 
                         <h3>Tratamiento Del Agua</h3>
 
-                        <p>Parte importante de los procesos industriales es el control de temperatura. En Chile contamos con la linea completa de REYMSA torres de refrigeracion fabricadas con el mas alto estandar y certificados en eficiencia.</p>
+                        <p>Parte importante de los procesos industriales es el control de temperatura. En Chile contamos con
+la línea completa de REYMSA torres de refrigeración fabricadas con el más alto estándar y certificados en eficiencia.</p>
 
                     </div>
 

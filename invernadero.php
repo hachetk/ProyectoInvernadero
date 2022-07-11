@@ -55,11 +55,11 @@ include './backend/connect.php';
 
             <div class="mb-3">
 
-            <label for="exampleFormControlInput1" class="form-label">Ubicacion:</label>
+            <label for="exampleFormControlInput1" class="form-label">Ubicación:</label>
 
               <input type="text" name="UBICACION" class="form-control form-control-lg" placeholder="Ingrese la ubicacion del invernadero" required>
 
-              <div class="invalid-feedback">La ubicacion es requerido!</div>
+              <div class="invalid-feedback">La ubicación es requerido!</div>
 
             </div>
 
@@ -153,7 +153,7 @@ include './backend/connect.php';
 
                 <th>Nombre</th>
 
-                <th>Ubicacion</th>
+                <th>Ubicación</th>
 
                 <th>Capacidad Cultivo</th>
 
